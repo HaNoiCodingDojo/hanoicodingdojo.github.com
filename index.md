@@ -5,6 +5,7 @@ Welcome to Hanoi CodingDojo
 
 Coding Dojo session was first invented in Paris in 2004 by the XP (eXtreme Programming) community. The aim of these sessions is to enhance the coding skills of attendees by doing some very small exercices in a funny atmosphere. This is like when you want to practice a sport like Judo, you need to practice some basic exercices with some judo masters before doing serious business like competitions.
 There are usually two styles of exercices :
+
 * Kata prepared by someone before the session and executed in front of the public or
 * Randori, a more exploraty form of a Kata where the whole group participates.
 
