@@ -21,7 +21,7 @@ How to join us ?
 
 Previous sessions
 ------------
-* April 16th 2011 - Session #1: [code](https://github.com/HaNoiCodingDojo/HNCDSession1), [pictures](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/), [announcement](http://blog.hanoilug.org/?p=123)
+* April 16th 2011 - Session #1 (Tennis Kata): [code](https://github.com/HaNoiCodingDojo/HNCDSession1), [pictures](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/), [announcement](http://blog.hanoilug.org/?p=123)
 * April 23th 2011 - Session #2: [code](https://github.com/HaNoiCodingDojo/HNCDSession2)
 * April 30th 2011 - Session #3: [code](https://github.com/HaNoiCodingDojo/HNCDSession3), [pictures](http://www.flickr.com/photos/vuhung/sets/72157626622094652/)
 * May 7th 2011 - Session #4: [code](https://github.com/HaNoiCodingDojo/HNCDSession4), [report](http://blog.hanoilug.org/?p=124)
