@@ -1,10 +1,10 @@
 Welcome to Hanoi CodingDojo
-==========================
+===========================
 
-**Next session will be organized May 21st 2011 at AUF/CNF (see below)**
+**Next session will be organized May 28th 2011 at AUF/CNF (see below)**
 
-Coding Dojo session was first invented in Paris in 2004 by the XP (eXtreme Programming) community. The aim of these sessions is to enhance the coding skills of attendees by doing some very small exercices in a funny atmosphere. This is like when you want to practice a sport like Judo, you need to practice some basic exercices with some judo masters before doing serious business like competitions.
-There are usually two styles of exercices :
+Coding Dojo session was first invented in Paris in 2004 by the XP (eXtreme Programming) community. The aim of these sessions is to enhance the coding skills of attendees by doing some very small exercises in a funny atmosphere. This is like when you want to practice a sport like Judo, you need to practice some basic exercices with some judo masters before doing serious business like competitions.
+There are usually two styles of exercises:
 
 * Kata prepared by someone before the session and executed in front of the public or
 * Randori, a more exploraty form of a Kata where the whole group participates.
@@ -26,4 +26,5 @@ Previous sessions
 * April 30th 2011 - Session #3: [code](https://github.com/HaNoiCodingDojo/HNCDSession3), [pictures](http://www.flickr.com/photos/vuhung/sets/72157626622094652/)
 * May 7th 2011 - Session #4: [code](https://github.com/HaNoiCodingDojo/HNCDSession4), [report](http://blog.hanoilug.org/?p=124)
 * May 14th 2011 - Session #5: [code](https://github.com/HaNoiCodingDojo/HNCDSession5)
+* May 21th 2011 - Session #6: code, [picture](http://www.flickr.com/photos/sergestinckwich/5753566224/)
 
