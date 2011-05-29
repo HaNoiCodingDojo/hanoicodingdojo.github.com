@@ -1,7 +1,7 @@
 Welcome to Hanoi CodingDojo
 ===========================
 
-**Next session will be organized May 28th 2011 at AUF/CNF (see below)**
+**Next session will be organized June 4th 2011 at AUF/CNF (see below)**
 
 Coding Dojo session was first invented in Paris in 2004 by the XP (eXtreme Programming) community. The aim of these sessions is to enhance the coding skills of attendees by doing some very small exercises in a funny atmosphere. This is like when you want to practice a sport like Judo, you need to practice some basic exercices with some judo masters before doing serious business like competitions.
 There are usually two styles of exercises:
@@ -21,10 +21,10 @@ How to join us ?
 
 Previous sessions
 ------------
-* April 16th 2011 - Session #1 (Tennis Kata): [code](https://github.com/HaNoiCodingDojo/HNCDSession1), [pictures](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/), [announcement](http://blog.hanoilug.org/?p=123)
+* April 16th 2011 - Session #1 (Tennis Kata in Python): [code](https://github.com/HaNoiCodingDojo/HNCDSession1), [pictures](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/), [announcement](http://blog.hanoilug.org/?p=123)
 * April 23th 2011 - Session #2: [code](https://github.com/HaNoiCodingDojo/HNCDSession2)
 * April 30th 2011 - Session #3: [code](https://github.com/HaNoiCodingDojo/HNCDSession3), [pictures](http://www.flickr.com/photos/vuhung/sets/72157626622094652/)
 * May 7th 2011 - Session #4: [code](https://github.com/HaNoiCodingDojo/HNCDSession4), [report](http://blog.hanoilug.org/?p=124)
 * May 14th 2011 - Session #5: [code](https://github.com/HaNoiCodingDojo/HNCDSession5)
 * May 21th 2011 - Session #6: code, [picture](http://www.flickr.com/photos/sergestinckwich/5753566224/)
-
+* May 28th 2011 - Session #7 (Fizzbuzz kata in Python and Smalltalk): code
