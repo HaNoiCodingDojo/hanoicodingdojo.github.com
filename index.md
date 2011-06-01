@@ -49,6 +49,8 @@ Previous sessions
   [report](http://blog.hanoilug.org/?p=124)
 * May 14th 2011 - Session #5:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession5)
-* May 21th 2011 - Session #6: code,
+* May 21th 2011 - Session #6 (Mikado Kata)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession6),
   [picture](http://www.flickr.com/photos/sergestinckwich/5753566224/)
-* May 28th 2011 - Session #7 (Fizzbuzz kata in Python and Smalltalk): code
+* May 28th 2011 - Session #7 (Fizzbuzz kata in Python and Smalltalk): 
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
