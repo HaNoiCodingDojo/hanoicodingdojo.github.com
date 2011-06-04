@@ -1,7 +1,7 @@
 Welcome to Hanoi CodingDojo
 ===========================
 
-**Next session will be organized June 4th 2011 at AUF/CNF (see below)**
+**Next session will be organized June 11th 2011 at AUF/CNF (see below)**
 
 Coding Dojo session was first invented in Paris in 2004 by the XP
 (eXtreme Programming) community. The aim of these sessions is to
@@ -39,18 +39,20 @@ Previous sessions
   [code](https://github.com/HaNoiCodingDojo/HNCDSession1),
   [pictures](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/),
   [announcement](http://blog.hanoilug.org/?p=123)
-* April 23th 2011 - Session #2:
+* April 23th 2011 - Session #2 (Numeral in Smalltalk + Internet Voting in Python):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession2)
-* April 30th 2011 - Session #3:
+* April 30th 2011 - Session #3 (Prime factors in Smalltalk):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession3),
   [pictures](http://www.flickr.com/photos/vuhung/sets/72157626622094652/)
-* May 7th 2011 - Session #4:
+* May 7th 2011 - Session #4 (Prime filter in Common-LISP):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession4),
   [report](http://blog.hanoilug.org/?p=124)
-* May 14th 2011 - Session #5:
+* May 14th 2011 - Session #5 (Tennis Kata without IF):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession5)
 * May 21th 2011 - Session #6 (Mikado Kata)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession6),
   [picture](http://www.flickr.com/photos/sergestinckwich/5753566224/)
 * May 28th 2011 - Session #7 (Fizzbuzz kata in Python and Smalltalk): 
   [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
+* June 4th 2011 - Session #8 (Fizzbuzz kata in [newLISP](http://www.newlisp.org/))
+  code
