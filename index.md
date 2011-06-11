@@ -56,5 +56,5 @@ Previous sessions
   [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
 * June 4th 2011 - Session #8 (Fizzbuzz kata in [newLISP](http://www.newlisp.org/))
   [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
-* June 11th 2011 - Sesssion #9
+* June 11th 2011 - Sesssion #9 (Internet Voting in newLISP)
   code
