@@ -1,7 +1,7 @@
 Welcome to Hanoi CodingDojo
 ===========================
 
-**Next session will be organized June 11th 2011 at AUF/CNF (see below)**
+**Next session will be organized June 18th 2011 at AUF/CNF (see below)**
 
 Coding Dojo session was first invented in Paris in 2004 by the XP
 (eXtreme Programming) community. The aim of these sessions is to
@@ -55,4 +55,6 @@ Previous sessions
 * May 28th 2011 - Session #7 (Fizzbuzz kata in Python and Smalltalk): 
   [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
 * June 4th 2011 - Session #8 (Fizzbuzz kata in [newLISP](http://www.newlisp.org/))
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
+* June 11th 2011 - Sesssion #9
   code
