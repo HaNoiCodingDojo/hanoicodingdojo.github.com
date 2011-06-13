@@ -12,7 +12,6 @@ like competitions.  There are usually two styles of exercises:
 
 * *Kata*: prepared by someone before the session and presented in
   front of the public or
-
 * *Randori*: a more exploratory form of a Kata where the whole group
   participates in solving the problem.
 
@@ -28,9 +27,7 @@ You can join our mailing-list:
  * Ha Noi #CodingDojo Organizers:
    Prof. [Serge Stinckwich](http://www.doesnotunderstand.org/), and
    [Dương “Yang” ヤン Hà Nguyễn](http://cmpitg.wordpress.com)
-
  * Time: Every Saturday from 2:00 PM to 4:00 PM
-
  * Location: AUF/CNF center, Institut de la Francophonie pour
    l’Informatique or Viện Tin học Pháp ngữ (IFI), ngõ 42 Tạ Quang Bửu,
    quận Hai Bà Trưng, Hà
@@ -42,28 +39,21 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession1),
   [pictures](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/),
   [announcement](http://blog.hanoilug.org/?p=123)
-
 * April 23rd 2011 - Session #2 (Numeral in Smalltalk + Internet Voting in Python):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession2)
-
 * April 30th 2011 - Session #3 (Prime factors in Smalltalk):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession3),
   [pictures](http://www.flickr.com/photos/vuhung/sets/72157626622094652/)
-
 * May 7th 2011 - Session #4 (Prime filter in Common Lisp):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession4),
   [report](http://blog.hanoilug.org/?p=124)
-
 * May 14th 2011 - Session #5 (Tennis Kata without IF):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession5)
-
 * May 21st 2011 - Session #6 (Mikado Kata)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession6),
   [picture](http://www.flickr.com/photos/sergestinckwich/5753566224/)
-
 * May 28th 2011 - Session #7 (Fizzbuzz kata in Python and Smalltalk): 
   [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
-
 * June 4th 2011 - Session #8 (Fizzbuzz kata in [newLISP](http://www.newlisp.org/))
   [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
 * June 11th 2011 - Session #9 (Internet Voting in newLISP)
