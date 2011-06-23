@@ -1,6 +1,6 @@
 # Welcome to Hanoi CodingDojo
 
-**Next session will be organized June 18th 2011 at AUF/CNF (see below)**
+**Next session will be organized June 25th 2011 at AUF/CNF (see below)**
 
 Coding Dojo session was first invented in Paris in 2004 by the XP
 (eXtreme Programming) community.  The aim of these sessions is to
@@ -58,3 +58,5 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
 * June 11th 2011 - Session #9 (Internet Voting in newLISP)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession9)
+* June 18th 2011 - Session #10 (TicTacToe kata)
+  code
