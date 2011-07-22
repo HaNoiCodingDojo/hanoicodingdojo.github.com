@@ -1,8 +1,8 @@
 # Welcome to Hanoi CodingDojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-**Next session will be organized on July 9th 2011 at AUF/CNF (see below)**
+**Next session will be organized on July 23rd 2011 at AUF/CNF (see below)**
 
-**Buổi Dojo tới sẽ được tổ chức vào thứ Bảy, ngày 09 tháng 07 nằm 2011 tại
+**Buổi Dojo tới sẽ được tổ chức vào thứ Bảy, ngày 23 tháng 07 nằm 2011 tại
   trung tâm AUF/CNF (dịa chỉ bên dưới)**
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
@@ -45,36 +45,41 @@ You can join our mailing-list:
 
 ### Archives
 
-* April, 16th 2011 - Session #1 (Tennis Kata in Python):
+* April, 16th 2011 - Session #1 ('Tennis' in Python - CPython):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession1),
   [pictures](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/),
   [announcement](http://blog.hanoilug.org/?p=123)
-* April, 23rd 2011 - Session #2 (Roman Numbers in Smalltalk + Internet Voting
-  in Python): [code](https://github.com/HaNoiCodingDojo/HNCDSession2)
-* May, 04th 2011 - Session #3 (Prime factors in Smalltalk):
+* April, 23rd 2011 - Session #2 ('Roman Numbers' in Pharo/Smalltalk + 'Internet Voting'
+  in Python - CPython): [code](https://github.com/HaNoiCodingDojo/HNCDSession2)
+* May, 04th 2011 - Session #3 ('Prime Factors' in Pharo/Smalltalk):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession3),
   [pictures](http://www.flickr.com/photos/vuhung/sets/72157626622094652/)
-* May, 07th 2011 - Session #4 (Prime filter in Common Lisp):
+* May, 07th 2011 - Session #4 ('Prime Filter' in Common Lisp - SBCL):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession4),
   [report](http://blog.hanoilug.org/?p=124)
-* May, 14th 2011 - Session #5 (Tennis Kata without IF):
+* May, 14th 2011 - Session #5 ('Tennis Kata without IF' in Python - CPython):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession5)
-* May, 21st 2011 - Session #6 (Mikado Kata)
+* May, 21st 2011 - Session #6 ('nginstar Mikado Kata' in Ruby - Ruby MRI)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession6),
   [picture](http://www.flickr.com/photos/sergestinckwich/5753566224/)
-* May, 28th 2011 - Session #7 (Fizzbuzz kata in Python and Smalltalk): 
+* May, 28th 2011 - Session #7 ('Fizzbuzz'in Python - CPython and Pharo/Smalltalk):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
-* June, 04th 2011 - Session #8 (Fizzbuzz kata in
+* June, 04th 2011 - Session #8 ('Fizzbuzz' in
   [newLISP](http://www.newlisp.org/))
   [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
-* June, 11th 2011 - Session #9 (Internet Voting in newLISP)
+* June, 11th 2011 - Session #9 ('Internet Voting' in newLISP)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession9)
-* June, 18th 2011 - Session #10 (TicTacToe kata)
+* June, 18th 2011 - Session #10 ('TicTacToe' in Pharo/Smalltalk)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession10)
-* June, 25th 2011 - Session #11 (TicTacToe kata with Cucumber and RSpec)
+* June, 25th 2011 - Session #11 ('TicTacToe' with Cucumber and RSpec)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession11)
-* July, 02nd 2011 - Session #12 (Reload Countdown kata)
+* July, 02nd 2011 - Session #12 ('Reload Countdown' in Haskell - GHC)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+* July, 09th 2011 - Session #13 ('Josephus on Nerd Planet' in Ruby - Ruby MRI)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+* July, 16th 2011 - Session #14 ('Reversi' in Pascal - FPC)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+
 
 ## Tiếng Việt
 
@@ -117,34 +122,38 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
 
 ### Lưu trữ
 
-* 16/04/2011 - Session #1 (Tennis Kata, dùng Python):
+* 16/04/2011 - Session #1 (Tennis, dùng Python - CPython):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession1),
   [ảnh](http://www.flickr.com/photos/sergestinckwich/sets/72157626521205638/),
   [thông báo](http://blog.hanoilug.org/?p=123)
-* 23/04/2011 - Session #2 (Số La Mã, dùng Smalltalk; và Bỏ phiếu
-  Internet, dùng Python):
+* 23/04/2011 - Session #2 (Số La Mã, dùng Pharo/Smalltalk; và Bỏ phiếu
+  Internet, dùng Python - CPython):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession2)
-* 30/04/2011 - Session #3 (Ước nguyên tố, dùng Smalltalk):
+* 30/04/2011 - Session #3 (Ước nguyên tố, dùng Pharo/Smalltalk):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession3),
   [ảnh](http://www.flickr.com/photos/vuhung/sets/72157626622094652/)
-* 07/05/2011 - Session #4 (Sàng số nguyên tố, dùng Common Lisp):
+* 07/05/2011 - Session #4 (Sàng số nguyên tố, dùng Common Lisp - SBCL):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession4),
   [tổng kết](http://blog.hanoilug.org/?p=124)
-* 14/05/2011 - Session #5 (Tennis Kata, không sử dụng "IF"):
+* 14/05/2011 - Session #5 (Tennis, không sử dụng "IF", dùng Python - CPython):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession5)
-* 21/05/2011 - Session #6 (nginstar, Mikado Kata)
+* 21/05/2011 - Session #6 (nginstar, Mikado Kata, dùng Ruby - Ruby MRI)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession6),
   [ảnh](http://www.flickr.com/photos/sergestinckwich/5753566224/)
-* 28/05/2011 - Session #7 (Fizzbuzz kata, dùng Python và Pharo/Smalltalk): 
-  [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
-* 04/07/2011 - Session #8 (Fizzbuzz kata, dùng
+* 28/05/2011 - Session #7 (Fizzbuzz, dùng Python - CPython và
+  Pharo/Smalltalk): [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
+* 04/07/2011 - Session #8 (Fizzbuzz, dùng
   [newLISP](http://www.newlisp.org/))
   [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
 * 11/06/2011 - Session #9 (Bỏ phiếu Internet, dùng newLISP)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession9)
-* 18/06/2011 - Session #10 (TicTacToe kata)
+* 18/06/2011 - Session #10 (TicTacToe, dùng Pharo/Smalltalk)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession10)
-* 25/06/2011 - Session #11 (TicTacToe kata, dùng Cucumber và RSpec)
+* 25/06/2011 - Session #11 (TicTacToe, dùng Cucumber và RSpec)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession11)
-* 02/07/2011 - Session #12 (Reload Countdown kata, dùng Haskell)
+* 02/07/2011 - Session #12 (Reload Countdown, dùng Haskell - GHC)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+* 09/07/2011 - Session #13 (Josephus trên hành tinh Ngộ chữ, dùng Ruby - Ruby
+  MRI) [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+* 26/07/2011 - Session #14 (Reversi, dùng Pascal - FPC)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
