@@ -76,9 +76,9 @@ You can join our mailing-list:
 * July, 02nd 2011 - Session #12 ('Reload Countdown' in Haskell - GHC)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
 * July, 09th 2011 - Session #13 ('Josephus on Nerd Planet' in Ruby - Ruby MRI)
-  [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession13)
 * July, 16th 2011 - Session #14 ('Reversi' in Pascal - FPC)
-  [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession14)
 
 
 ## Tiếng Việt
@@ -154,6 +154,6 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
 * 02/07/2011 - Session #12 (Reload Countdown, dùng Haskell - GHC)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
 * 09/07/2011 - Session #13 (Josephus trên hành tinh Ngộ chữ, dùng Ruby - Ruby
-  MRI) [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+  MRI) [code](https://github.com/HaNoiCodingDojo/HNCDSession13)
 * 26/07/2011 - Session #14 (Reversi, dùng Pascal - FPC)
-  [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession14)
