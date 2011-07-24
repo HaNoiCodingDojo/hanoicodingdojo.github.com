@@ -1,8 +1,8 @@
 # Welcome to Hanoi CodingDojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-**Next session will be organized on July 23rd 2011 at AUF/CNF (see below)**
+**Next session will be organized on July 30nd 2011 at AUF/CNF (see below)**
 
-**Buổi Dojo tới sẽ được tổ chức vào thứ Bảy, ngày 23 tháng 07 nằm 2011 tại
+**Buổi Dojo tới sẽ được tổ chức vào thứ Bảy, ngày 30 tháng 07 nằm 2011 tại
   trung tâm AUF/CNF (dịa chỉ bên dưới)**
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
@@ -79,7 +79,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession13)
 * July, 16th 2011 - Session #14 ('Reversi' in Pascal - FPC)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession14)
-
+* July, 23rd 2011 - Session #15 ('Pascal Unit Test, Mikado Kata' in Pascal -
+  FPC) [code](https://github.com/HaNoiCodingDojo/HNCDSession15)
 
 ## Tiếng Việt
 
@@ -155,5 +156,7 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession12)
 * 09/07/2011 - Session #13 (Josephus trên hành tinh Ngộ chữ, dùng Ruby - Ruby
   MRI) [code](https://github.com/HaNoiCodingDojo/HNCDSession13)
-* 26/07/2011 - Session #14 (Reversi, dùng Pascal - FPC)
+* 16/07/2011 - Session #14 (Reversi, dùng Pascal - FPC)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession14)
+* 23/07/2011 - Session #15 (Pascal Unit Test, Mikado Kata, dùng Pascal - FPC)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession15)
