@@ -1,7 +1,7 @@
 # Welcome to Hanoi CodingDojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
 
-**Ha Noi Coding Dojo is currently on hollydays. We will come back in September. Stay tune !**
+**Ha Noi Coding Dojo is currently on holidays. We will come back in September. Stay tune !**
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
