@@ -1,9 +1,7 @@
 # Welcome to Hanoi CodingDojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-**Next session will be organized on July 30nd 2011 at AUF/CNF (see below)**
 
-**Buổi Dojo tới sẽ được tổ chức vào thứ Bảy, ngày 30 tháng 07 nằm 2011 tại
-  trung tâm AUF/CNF (dịa chỉ bên dưới)**
+**Ha Noi Coding Dojo is currently on hollydays. We will come back in September. Stay tune !**
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
