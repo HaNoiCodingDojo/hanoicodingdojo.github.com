@@ -1,7 +1,7 @@
 # Welcome to Hanoi CodingDojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
 
-**Next session of Ha Noi Coding Dojo will be organized saturady December 30th 2011**
+**Next session of Ha Noi Coding Dojo will be organized saturday December 30th 2011**
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
