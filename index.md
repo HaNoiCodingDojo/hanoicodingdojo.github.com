@@ -1,12 +1,8 @@
 # Welcome to Hanoi Coding Dojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized Saturday January 21, 2012 at IFI (close to CNF) ##
+## Next session of Ha Noi Coding Dojo will be organized saturday February 11 2012 at CNF ##
 
-<<<<<<< HEAD
-**Next session of Ha Noi Coding Dojo will be organized saturday February 11 2012 at CNF**
-=======
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 21 tháng 01 năm 2012 tại IFI (ngay cạnh CNF) ##
->>>>>>> 814d7b63ad73ce48f19e8ddf95789a7e254d5f78
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 11 tháng 02 năm 2012 tại CNF ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
