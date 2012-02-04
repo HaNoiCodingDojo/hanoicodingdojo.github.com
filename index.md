@@ -87,7 +87,8 @@ You can join our mailing-list:
 * January, 14th 2012 - Session #18 ('Poker Dice' in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession18)
 * January, 21th 2012 - Session #19
-* February 4th 2012 - Session #20
+* February 4th 2012 - Session #20 ('Robozzle Kata' in Python - CPython)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession20)
 
 ## Tiếng Việt
 
@@ -174,4 +175,7 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
 * 14/01/2012 - Session #18 ('Poker Dice' dùng C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession18)
 * 21/01/2012 - Session #19
-* 04/02/2012 - Session #20
+* 04/02/2012 - Session #20 ('Robozzle Kata' dùng Python - CPython)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession20)
+
+
