@@ -1,7 +1,7 @@
 # Welcome to Hanoi CodingDojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
 
-**Next session of Ha Noi Coding Dojo will be organized saturday January 21 2012 at IFI (close to CNF)**
+**Next session of Ha Noi Coding Dojo will be organized saturday February 11 2012 at CNF**
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -82,6 +82,8 @@ You can join our mailing-list:
 * December, 31th 2011 - Session #16 ('StringCalculator kata' in Pharo/Smalltalk) [code](https://github.com/HaNoiCodingDojo/HNCDSession16)
 * January, 7th 2012 - Session #17
 * January, 14th 2012 - Session #18 ('Poker Dice' in C++) [code](https://github.com/HaNoiCodingDojo/HNCDSession18)
+* January, 21th 2012 - Session #19
+* February 4th 2012 - Session #20
 
 ## Tiếng Việt
 
@@ -164,3 +166,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
 * 31/12/2011 - Session #16 ('StringCalculator kata' in Pharo/Smalltalk) [code](https://github.com/HaNoiCodingDojo/HNCDSession16)
 * 07/01/2012 - Session #17
 * 14/01/2012 - Session #18 ('Poker Dice' in C++) [code](https://github.com/HaNoiCodingDojo/HNCDSession18)
+* 21/01/2012 - Session #19
+* 04/02/2012 - Session #20
