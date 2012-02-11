@@ -1,8 +1,8 @@
 # Welcome to Hanoi Coding Dojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized saturday February 11 2012 at CNF ##
+## Next session of Ha Noi Coding Dojo will be organized saturday February 18, 2012 at CNF ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 11 tháng 02 năm 2012 tại CNF ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 18 tháng 02 năm 2012 tại CNF ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -86,9 +86,12 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession17)
 * January, 14th 2012 - Session #18 ('Poker Dice' in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession18)
-* January, 21th 2012 - Session #19
-* February 4th 2012 - Session #20 ('Robozzle Kata' in Python - CPython)
+* January, 21st 2012 - Session #19 ('Mastermind (part 2)' in Clojure -
+  Clojure) [code](https://github.com/HaNoiCodingDojo/HNCDSession19)
+* February, 4th 2012 - Session #20 ('Robozzle Kata' in Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession20)
+* February, 11th 2012 - Session #21 ('Binary Generator' in Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession21)
 
 ## Tiếng Việt
 
@@ -168,14 +171,15 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession14)
 * 23/07/2011 - Session #15 (Pascal Unit Test, Mikado Kata, dùng Pascal - FPC)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession15)
-* 31/12/2011 - Session #16 ('StringCalculator kata' dùng Pharo/Smalltalk)
+* 31/12/2011 - Session #16 (StringCalculator, dùng Pharo/Smalltalk)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession16)
-* 07/01/2012 - Session #17 ('Mastermind' dùng Python - CPython)
+* 07/01/2012 - Session #17 (Mastermind, dùng Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession17)
-* 14/01/2012 - Session #18 ('Poker Dice' dùng C++ - G++)
+* 14/01/2012 - Session #18 (Poker Dice, dùng C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession18)
-* 21/01/2012 - Session #19
-* 04/02/2012 - Session #20 ('Robozzle Kata' dùng Python - CPython)
+* 21/01/2012 - Session #19 (Mastermind (part 2), dùng Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession19)
+* 04/02/2012 - Session #20 (Robozzle Kata, dùng Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession20)
-
-
+* 11/02/2012 - Session #21 (Binary Generator, dùng Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession21)
