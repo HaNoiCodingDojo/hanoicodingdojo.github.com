@@ -63,6 +63,7 @@ You can join our mailing-list:
   [picture](http://www.flickr.com/photos/sergestinckwich/5753566224/)
 * May, 28th 2011 - Session #7 ('Fizzbuzz'in Python - CPython and Pharo/Smalltalk):
   [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
+  [report](http://cmpitg.wordpress.com/2011/05/30/hanoi-coding-dojo-session-7/)
 * June, 04th 2011 - Session #8 ('Fizzbuzz' in
   [newLISP](http://www.newlisp.org/))
   [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
@@ -151,6 +152,7 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [ảnh](http://www.flickr.com/photos/sergestinckwich/5753566224/)
 * 28/05/2011 - Session #7 (Fizzbuzz, dùng Python - CPython và
   Pharo/Smalltalk): [code](https://github.com/HaNoiCodingDojo/HNCDSession7)
+    [report](http://cmpitg.wordpress.com/2011/05/30/hanoi-coding-dojo-session-7/)
 * 04/07/2011 - Session #8 (Fizzbuzz, dùng
   [newLISP](http://www.newlisp.org/))
   [code](https://github.com/HaNoiCodingDojo/HNCDSession8)
