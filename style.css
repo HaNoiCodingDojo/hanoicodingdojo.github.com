@@ -1,0 +1,38 @@
+h1 {
+    color: #ABCCBA;
+}
+
+body {
+    background: #1c1d1f;
+    color: #d0dff4;
+    padding: 30px 50px;
+    font-family: 'Droid Sans', Helvetica, Verdana;
+    line-height: 130%;
+}
+
+h1 {
+    color: #d0dff4;
+}
+
+h2 {
+    color: #e0d897;
+}
+
+h1, h2 {
+    line-height: 110%;
+}
+
+a {
+    text-decoration: none;
+    /* color: #d1d9e1; */
+    /* color: #909090; */
+    color: #93989b;
+}
+
+a:hover {
+    color: #6bffbd;
+}
+
+li {
+    margin-top: 4pt;
+}

@@ -1,4 +1,7 @@
-# Welcome to Hanoi Coding Dojo / Chào mừng các bạn đến với Coding Dojo Hà Nội
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+# Welcome to Hanoi Coding Dojo
+# Chào mừng các bạn đến với Coding Dojo Hà Nội
 
 ## Next session of Ha Noi Coding Dojo will be organized saturday February 18, 2012 at CNF ##
 
