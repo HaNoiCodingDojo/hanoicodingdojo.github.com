@@ -1,9 +1,10 @@
-<link rel="stylesheet" type="text/css" href="style.css" />
+Title: Hanoi Coding Dojo
+CSS: style.css
 
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized saturday February 25, 2012 at CNF ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, February 25, 2012 at CNF ##
 
 ## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 18 tháng 02 năm 2012 tại CNF ##
 
@@ -96,7 +97,7 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession20)
 * February, 11th 2012 - Session #21 ('Binary Generator' in Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession21)
-* February, 18th 2012 - Session #22 ('Roman Numerals' in Java)
+* February, 18th 2012 - Session #22 ('Roman Numerals' in Java - Eclipse JDT)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 ## Tiếng Việt
 
@@ -189,5 +190,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession20)
 * 11/02/2012 - Session #21 (Binary Generator, dùng Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession21)
-* 18/02/2012 - Session #22 (Roman Numerals, dùng Java)
+* 18/02/2012 - Session #22 (Roman Numerals, dùng Java - Eclipse JDT)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
