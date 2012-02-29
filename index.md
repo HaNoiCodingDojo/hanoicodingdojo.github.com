@@ -100,7 +100,8 @@ You can join our mailing-list:
 * February, 18th 2012 - Session #22 ('Roman Numerals' in Java - Eclipse JDT)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 * February, 25th 2012 - Session #23 ('TennisKata' in C++ - G++)
-  [code]
+  [code](#)
+
 ## Tiếng Việt
 
 ### Giới thiệu
@@ -195,4 +196,4 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
 * 18/02/2012 - Session #22 (Roman Numerals, dùng Java - Eclipse JDT)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 * 25/02/2012 - Session #23 (Tennis Kata, dùng in C++ - G++)
-  [code]
+  [code](#)
