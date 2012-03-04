@@ -6,7 +6,7 @@ CSS: style.css
 
 ## Next session of Ha Noi Coding Dojo will be organized on Saturday, March 10th, 2012 at CNF ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 3 tháng 03 năm 2012 tại CNF ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 10 tháng 03 năm 2012 tại CNF ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
