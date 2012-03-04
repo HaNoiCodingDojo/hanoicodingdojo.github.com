@@ -4,7 +4,7 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, March 3rd, 2012 at CNF ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, March 10th, 2012 at CNF ##
 
 ## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 3 tháng 03 năm 2012 tại CNF ##
 
@@ -101,6 +101,7 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 * February, 25th 2012 - Session #23 ('TennisKata' in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession23)
+* March, 3rd 2012 - Session #24 (Mikado method)
 
 ## Tiếng Việt
 
@@ -197,3 +198,4 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 * 25/02/2012 - Session #23 (Tennis Kata, dùng in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession23)
+* 03/03/2012 - Session #24 (Mikad method)
