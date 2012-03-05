@@ -101,7 +101,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 * February, 25th 2012 - Session #23 ('TennisKata' in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession23)
-* March, 3rd 2012 - Session #24 (Mikado method)
+* March, 3rd 2012 - Session #24 ('Mikado method' in Smalltalk - Pharo 1.3)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession24)
 
 ## Tiếng Việt
 
@@ -196,6 +197,7 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession21)
 * 18/02/2012 - Session #22 (Roman Numerals, dùng Java - Eclipse JDT)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
-* 25/02/2012 - Session #23 (Tennis Kata, dùng in C++ - G++)
+* 25/02/2012 - Session #23 (Tennis Kata, dùng C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession23)
-* 03/03/2012 - Session #24 (Mikad method)
+* 03/03/2012 - Session #24 (Mikad method, dùng Smalltalk - Pharo 1.3)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession24)
