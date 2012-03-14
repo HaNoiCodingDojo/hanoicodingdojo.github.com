@@ -104,7 +104,7 @@ You can join our mailing-list:
 * March, 3rd 2012 - Session #24 ('Mikado method' in Smalltalk - Pharo 1.3)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession24)
 * March, 10th 2012 - Session #25 ('Countdown Kata' in Python, Smalltalk and Clojure)
-  [core](https://github.com/HaNoiCodingDojo/HNCDSession25)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession25)
 
 ## Tiếng Việt
 
@@ -204,4 +204,4 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
 * 03/03/2012 - Session #24 (Mikado method, dùng Smalltalk - Pharo 1.3)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession24)
 * 10/03/2012 - Session #25 ('Countdown Kata', Python, Smalltalk and Clojure)
-  [core](https://github.com/HaNoiCodingDojo/HNCDSession25)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession25)
