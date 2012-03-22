@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, March 17th, 2012 at CNF ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, March 24th, 2012 at CNF ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 17 tháng 03 năm 2012 tại CNF ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 24 tháng 03 năm 2012 tại CNF ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -101,10 +101,13 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 * February, 25th 2012 - Session #23 ('TennisKata' in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession23)
-* March, 3rd 2012 - Session #24 ('Mikado method' in Smalltalk - Pharo 1.3)
+* March, 3rd 2012 - Session #24 ('Magic Words' with Mikado method in Smalltalk - Pharo 1.3)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession24)
 * March, 10th 2012 - Session #25 ('Countdown Kata' in Python, Smalltalk and Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession25)
+* March, 17th 2012 - Session #26 ('Number to Speech' in Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
+
 
 ## Tiếng Việt
 
@@ -201,7 +204,9 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession22)
 * 25/02/2012 - Session #23 (Tennis Kata, dùng C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession23)
-* 03/03/2012 - Session #24 (Mikado method, dùng Smalltalk - Pharo 1.3)
+* 03/03/2012 - Session #24 ('Magic Words' với Mikado Kata, dùng Smalltalk - Pharo 1.3)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession24)
-* 10/03/2012 - Session #25 ('Countdown Kata', Python, Smalltalk and Clojure)
+* 10/03/2012 - Session #25 ('Countdown Kata' dùng Python, Smalltalk và Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession25)
+* 17/03/2012 - Session #26 ('Number to Speech' dùng Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
