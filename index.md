@@ -107,8 +107,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession25)
 * March, 17th 2012 - Session #26 ('Number to Speech' in Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
-* March, 24th 2012 - Session #27 
-  code
+* March, 24th 2012 - Session #27 ('Number to Speech' in C++ - G++)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession27)
 
 
 ## Tiếng Việt
@@ -212,5 +212,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession25)
 * 17/03/2012 - Session #26 ('Number to Speech' dùng Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
-* 24/03/2012 - Session #27 
-  code
+* 24/03/2012 - Session #27 ('Numver to Speech - base 5' dùng C++ - G++) 
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession27)
