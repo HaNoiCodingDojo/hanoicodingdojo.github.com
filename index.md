@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, March 31th, 2012 at CNF ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, April 07th, 2012 at CNF ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 31 tháng 03 năm 2012 tại CNF ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 07 tháng 04 năm 2012 tại CNF ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -212,5 +212,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession25)
 * 17/03/2012 - Session #26 ('Number to Speech' dùng Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
-* 24/03/2012 - Session #27 ('Numver to Speech - base 5' dùng C++ - G++) 
+* 24/03/2012 - Session #27 ('Numver to Speech - Base-5' dùng C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession27)
