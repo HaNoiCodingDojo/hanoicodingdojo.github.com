@@ -1,0 +1,134 @@
+Chers amis, Dear fellows, xin chào các bạn,
+
+Sorry for cross-posting, please disregard this email if it bothers you.
+
+Xin lỗi vì đã cross-posting, xin vui lòng bỏ qua email này nếu như email nếu
+như bạn không quan tâm đến.
+
+(The English and French part are next to the Vietnamese part)
+
+---
+Vi-VN:
+
+Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 28:
+
+* vào thứ Bảy - 31 tháng 03 tới,
+* từ 2:00 đến 4:00 chiều,
+* tại trung tâm AUF/CNF - IFI, 42 Tạ Quang Bửu, Hà Nội.
+
+Các câu hỏi thường gặp:
+
+* Hà Nội Coding Dojo là gì?
+
+ Hà Nội Coding Dojo là một buổi lập trình với mục đích nâng cao kỹ năng lập
+ trình cho tất cả các thành viên bằng việc giải quyết với bài toán nhỏ (bằng
+ mô hình Test-Driven-Development và BabyStep) trong không khi vui vẻ và thân
+ mật.  Mục tiêu của một buổi Dojo *không phải là để giải quyết bài toán hay
+ đánh giá kỹ năng lập trình* mà để *học cách trở thành một lập trình viên tốt
+ hơn*.
+
+* Điều kiện để tham dự Hà Nội Coding Dojo là gì?
+
+ Bạn chỉ cần biết lập trình, thậm chí biết một chút cũng được.  Vậy là đủ!
+ :-)
+
+* Tôi có cần chuẩn bị gì khi tham dự một buổi Dojo không?
+
+ Thông thường thì không.  Nhưng sẽ tốt hơn nếu bạn có thể chuẩn bị một vài
+ bái toán để giải trong buổi Dojo ấy.  Trong trường hợp đó, bạn chỉ cần chuẩn
+ bị đề bài, không cần phải nghĩ cách giải từ trước.  Ngoài ra, nếu bạn biết
+ một ngôn ngữ lập trình và cách làm unit test trong ngôn ngữ ấy thì thật
+ tuyệt vời!
+
+* Tôi đã đọc website và xem repo trên Github, các bạn sử dụng các ngôn ngữ
+ "quái" quá.  Tôi không biết và không hiểu các ngôn ngữ ấy...
+
+ Đó là bởi vì chúng tôi chưa có bạn tham gia :-P.  Thông thường, chúng tôi
+ chọn ngôn ngữ lập trình tại đầu buổi Dojo.  Bất kỳ thành viên nào biết một
+ ngôn ngữ lập trình nào đó và biết làm unit test trong ngôn ngữ đó đều có thể
+ đề xuất ngôn ngữ sử dụng.
+
+* Tôi muốn tham gia, nhưng tôi chẳng biết gì về Coding Dojo cả...
+
+ Bạn không cần phải biết trước đâu.  Hãy tham gia với chúng tôi rồi bạn sẽ
+ thấy!  ;-)
+
+Để biết thêm thông tin chi tiết về Hà Nội Coding Dojo, mời các bạn thăm
+website của chúng tôi (song ngữ Anh/Việt): http://hanoicodingdojo.github.com
+
+---
+En-US:
+
+I'm glad to announce that Hanoi Coding Dojo session #28 will be organized:
+
+* on next Saturday - March 31th,
+* from 2:00 PM to 4:00 PM,
+* at AUF/CNF - IFI, 42 Ta Quang Buu, Hanoi.
+
+Frequently asked questions:
+
+* What is Hanoi Coding Dojo?
+
+ Hanoi Coding Dojo is coding session with the purpose of improving coding
+ skills by doing very small exercises in Test-Driven-Development model and
+ BabyStep in a fun atmosphere.  The goals of a session *neither to solve the
+ problem nor to judge each other* but to *learn how to become a better
+ programmer*.
+
+* What are the requirements to join Hanoi Coding Dojo?
+
+ Knowing how to program, even if it's just a little bit.  That's all! :-)
+
+* Do I have to prepare anything before the session?
+
+ Generally no.  But it would be great if you could prepare some problems
+ to solve in the session.  Just think of a problem, no need to try to solve
+ before-hand.  On the other hand, it's the best if you know a programming
+ language and how to do unit test in that language.
+
+* I read the website and saw your Github repo, you're using weird
+ languages.  I don't know them at all...
+
+ That's because you're not in :-P.  Usually we choose language by voting at
+ the beginning of the session.  Anyone with a programming language in which
+ s/he knows how to do unit test could be chosen.
+
+* I want to join, but I know nothing about Coding Dojo...
+
+ You don't need to.  Just come, join us and have fun! ;-)
+
+For more information about Hanoi Coding Dojo, please visit our website
+(English/Vietnamese): http://hanoicodingdojo.github.com
+
+---
+Fr-FR:
+
+Je suis heureux de vous annoncer que la session #28 du Coding Dojo Ha Noi sera organisé :
+
+* le prochain samedi - Samedi 31 mars,
+* de 2:00 PM à 4:00 PM,
+* à AUF/CNF - IFI, 42 Ta Quang Buu, Hanoi.
+
+Foire Au Questions (FAQ):
+
+* Qu'est-ce que Ha Noi Coding Dojo ?
+
+ Le Ha Noi Coding Dojo est un groupe de personnes dont l'objectif est d'améliorer ses compétences en programmation en faisant de petits exercices en utilisant une approche de développement logiciel de type TDD (Développement dirigés par les tests) dans une atmosphére détendue et amicale. L'objectif de la session *n'est ni de résoudre un problème ni de juger les autres* mais *d'apprendre comment devenir de meilleur développeur*.
+
+* Quels sont les prérequis pour rejoindre le Ha Noi Coding Dojo ?
+
+ Savoir programmer, même si c'est juste un peu. C'est tout! :-)
+
+* Faut-il préparer quelque chose avant de venir à la session ?
+
+ Généralement non. Mais c'est bien si pouvez préparer quelques idées de problèmes à résoudre pendant la session. Juste réfléchir à un problème, pas besoin d'essayer de le résoudre avant de venir. Si vous connaissez un langage de programmation, il est utile de savoir comment écrire des tests unitaires dans ce langage.
+
+* Je lis le site web et j'ai vu sur github, que vous utilisew des langages étranges. Je ne connais aucun d'entre eux ...
+
+ C'est parce que vous n'êtes jamais venu :-P Généralement, nous choisissons le langage de programmation en début de session. Tout langage de programmation permettant d'écrire des tests unitaires peut-être choisi.
+
+* Je veux vous rejoindre, mais je connais rien au Coding Dojo ...
+
+ Vous n'avez pas besoin. Il suffit de venir, se joindre à nous et s'amuser ;-)
+
+Pour plus d'information sur le Ha Noi Coding Dojo, merci de visiter notre site web (anglais/vietnamien).
