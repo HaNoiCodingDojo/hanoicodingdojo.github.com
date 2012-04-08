@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, April 07th, 2012 at CNF ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, April 14th, 2012 at CNF ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 07 tháng 04 năm 2012 tại CNF ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 14 tháng 04 năm 2012 tại CNF ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -109,7 +109,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
 * March, 24th 2012 - Session #27 ('Number to Speech' in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession27)
-
+* April 7th, 2012 - Session #28 ('Brainfuck interpreter' in Python - CPyhton)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession28)
 
 ## Tiếng Việt
 
@@ -214,3 +215,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
 * 24/03/2012 - Session #27 ('Numver to Speech - Base-5' dùng C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession27)
+* 07/04/2012 - Session #28 ('Brainfuck interpreter' dùng Python - CPyhton)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession28)
