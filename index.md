@@ -109,7 +109,7 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
 * March, 24th 2012 - Session #27 ('Number to Speech' in C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession27)
-* April 7th, 2012 - Session #28 ('Brainfuck interpreter' in Python - CPyhton)
+* April 7th, 2012 - Session #28 ('Brainfuck interpreter' in Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession28)
 
 ## Tiếng Việt
@@ -215,5 +215,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession26)
 * 24/03/2012 - Session #27 ('Numver to Speech - Base-5' dùng C++ - G++)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession27)
-* 07/04/2012 - Session #28 ('Brainfuck interpreter' dùng Python - CPyhton)
+* 07/04/2012 - Session #28 ('Brainfuck interpreter' dùng Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession28)
