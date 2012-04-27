@@ -10,11 +10,11 @@ như bạn không quan tâm đến.
 ---
 Vi-VN:
 
-Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 28:
+Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 29:
 
-* vào thứ Bảy - 31 tháng 03 tới,
+* vào thứ Bảy - 28 tháng 04 (chiều nay),
 * từ 2:00 đến 4:00 chiều,
-* tại trung tâm AUF/CNF - IFI, 42 Tạ Quang Bửu, Hà Nội.
+* tại Viện Tin học Pháp ngữ IFI, 42 Tạ Quang Bửu, Hà Nội.
 
 Các câu hỏi thường gặp:
 
@@ -59,11 +59,11 @@ website của chúng tôi (song ngữ Anh/Việt): http://hanoicodingdojo.github
 ---
 En-US:
 
-I'm glad to announce that Hanoi Coding Dojo session #28 will be organized:
+I'm glad to announce that Hanoi Coding Dojo session #29 will be organized:
 
-* on next Saturday - March 31th,
+* today, Saturday - April 28th,
 * from 2:00 PM to 4:00 PM,
-* at AUF/CNF - IFI, 42 Ta Quang Buu, Hanoi.
+* at Institut de la Francophonie pour l'Informatique (IFI), 42 Ta Quang Buu, Hanoi.
 
 Frequently asked questions:
 
@@ -103,11 +103,11 @@ For more information about Hanoi Coding Dojo, please visit our website
 ---
 Fr-FR:
 
-Je suis heureux de vous annoncer que la session #28 du Coding Dojo Ha Noi sera organisé :
+Je suis heureux de vous annoncer que la session #29 du Coding Dojo Ha Noi sera organisé :
 
-* le prochain samedi - Samedi 31 mars,
+* aujourd'hui - Samedi 29 avril,
 * de 2:00 PM à 4:00 PM,
-* à AUF/CNF - IFI, 42 Ta Quang Buu, Hanoi.
+* à Institut de la Francophonie pour l'Informatique - IFI, 42 Ta Quang Buu, Hanoi.
 
 Foire Au Questions (FAQ):
 
