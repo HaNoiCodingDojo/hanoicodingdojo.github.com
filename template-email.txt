@@ -1,16 +1,15 @@
-Chers amis, Dear fellows, xin chào các bạn,
+Chers amis, Dear amigos, xin chào các bạn,
 
 Sorry for cross-posting, please disregard this email if it bothers you.
 
-Xin lỗi vì đã cross-posting, xin vui lòng bỏ qua email này nếu như email nếu
-như bạn không quan tâm đến.
+Xin lỗi vì đã cross-posting, xin vui lòng bỏ qua email này nếu như bạn không quan tâm đến.
 
 (The English and French part are next to the Vietnamese part)
 
 ---
 Vi-VN:
 
-Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 29:
+Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 30:
 
 * vào thứ Bảy - 28 tháng 04 (chiều nay),
 * từ 2:00 đến 4:00 chiều,
@@ -20,38 +19,23 @@ Các câu hỏi thường gặp:
 
 * Hà Nội Coding Dojo là gì?
 
- Hà Nội Coding Dojo là một buổi lập trình với mục đích nâng cao kỹ năng lập
- trình cho tất cả các thành viên bằng việc giải quyết với bài toán nhỏ (bằng
- mô hình Test-Driven-Development và BabyStep) trong không khi vui vẻ và thân
- mật.  Mục tiêu của một buổi Dojo *không phải là để giải quyết bài toán hay
- đánh giá kỹ năng lập trình* mà để *học cách trở thành một lập trình viên tốt
- hơn*.
+ Hà Nội Coding Dojo là một buổi lập trình với mục đích nâng cao kỹ năng lập trình cho tất cả các thành viên bằng việc giải quyết với bài toán nhỏ (bằng mô hình Test-Driven-Development và BabyStep) trong không khi vui vẻ và thân mật.  Mục tiêu của một buổi Dojo *không phải là để giải quyết bài toán hay đánh giá kỹ năng lập trình* mà để *học cách trở thành một lập trình viên tốt hơn*.
 
 * Điều kiện để tham dự Hà Nội Coding Dojo là gì?
 
- Bạn chỉ cần biết lập trình, thậm chí biết một chút cũng được.  Vậy là đủ!
- :-)
+ Bạn chỉ cần biết lập trình, thậm chí biết một chút cũng được.  Vậy là đủ! :-)
 
 * Tôi có cần chuẩn bị gì khi tham dự một buổi Dojo không?
 
- Thông thường thì không.  Nhưng sẽ tốt hơn nếu bạn có thể chuẩn bị một vài
- bái toán để giải trong buổi Dojo ấy.  Trong trường hợp đó, bạn chỉ cần chuẩn
- bị đề bài, không cần phải nghĩ cách giải từ trước.  Ngoài ra, nếu bạn biết
- một ngôn ngữ lập trình và cách làm unit test trong ngôn ngữ ấy thì thật
- tuyệt vời!
+ Thông thường thì không.  Nhưng sẽ tốt hơn nếu bạn có thể chuẩn bị một vài bái toán để giải trong buổi Dojo ấy.  Trong trường hợp đó, bạn chỉ cần chuẩn bị đề bài, không cần phải nghĩ cách giải từ trước.  Ngoài ra, nếu bạn biết một ngôn ngữ lập trình và cách làm unit test trong ngôn ngữ ấy thì thật tuyệt vời!
 
-* Tôi đã đọc website và xem repo trên Github, các bạn sử dụng các ngôn ngữ
- "quái" quá.  Tôi không biết và không hiểu các ngôn ngữ ấy...
+* Tôi đã đọc website và xem repo trên Github, các bạn sử dụng các ngôn ngữ "quái" quá.  Tôi không biết và không hiểu các ngôn ngữ ấy...
 
- Đó là bởi vì chúng tôi chưa có bạn tham gia :-P.  Thông thường, chúng tôi
- chọn ngôn ngữ lập trình tại đầu buổi Dojo.  Bất kỳ thành viên nào biết một
- ngôn ngữ lập trình nào đó và biết làm unit test trong ngôn ngữ đó đều có thể
- đề xuất ngôn ngữ sử dụng.
+ Đó là bởi vì chúng tôi chưa có bạn tham gia :-P.  Thông thường, chúng tôi chọn ngôn ngữ lập trình tại đầu buổi Dojo.  Bất kỳ thành viên nào biết một ngôn ngữ lập trình nào đó và biết làm unit test trong ngôn ngữ đó đều có thể đề xuất ngôn ngữ sử dụng.
 
 * Tôi muốn tham gia, nhưng tôi chẳng biết gì về Coding Dojo cả...
 
- Bạn không cần phải biết trước đâu.  Hãy tham gia với chúng tôi rồi bạn sẽ
- thấy!  ;-)
+ Bạn không cần phải biết trước đâu.  Hãy tham gia với chúng tôi rồi bạn sẽ thấy!  ;-)
 
 Để biết thêm thông tin chi tiết về Hà Nội Coding Dojo, mời các bạn thăm
 website của chúng tôi (song ngữ Anh/Việt): http://hanoicodingdojo.github.com
@@ -59,7 +43,7 @@ website của chúng tôi (song ngữ Anh/Việt): http://hanoicodingdojo.github
 ---
 En-US:
 
-I'm glad to announce that Hanoi Coding Dojo session #29 will be organized:
+I'm glad to announce that Hanoi Coding Dojo session #30 will be organized:
 
 * today, Saturday - April 28th,
 * from 2:00 PM to 4:00 PM,
@@ -69,29 +53,21 @@ Frequently asked questions:
 
 * What is Hanoi Coding Dojo?
 
- Hanoi Coding Dojo is coding session with the purpose of improving coding
- skills by doing very small exercises in Test-Driven-Development model and
- BabyStep in a fun atmosphere.  The goals of a session *neither to solve the
- problem nor to judge each other* but to *learn how to become a better
- programmer*.
+ Hanoi Coding Dojo is coding session with the purpose of improving coding skills by doing very small exercises in Test-Driven-Development model and BabyStep in a fun atmosphere.  The goals of a session *neither to solve the problem nor to judge each other* but to *learn how to become a better programmer*.
 
 * What are the requirements to join Hanoi Coding Dojo?
 
- Knowing how to program, even if it's just a little bit.  That's all! :-)
+ Knowing how to program, even if it's just a little bit.  That's all!  :-)
 
 * Do I have to prepare anything before the session?
 
  Generally no.  But it would be great if you could prepare some problems
- to solve in the session.  Just think of a problem, no need to try to solve
- before-hand.  On the other hand, it's the best if you know a programming
- language and how to do unit test in that language.
+ to solve in the session.  Just think of a problem, no need to try to solve before-hand.  On the other hand, it's the best if you know a programming language and how to do unit test in that language.
 
 * I read the website and saw your Github repo, you're using weird
  languages.  I don't know them at all...
 
- That's because you're not in :-P.  Usually we choose language by voting at
- the beginning of the session.  Anyone with a programming language in which
- s/he knows how to do unit test could be chosen.
+ That's because you're not in :-P.  Usually we choose language by voting at the beginning of the session.  Anyone with a programming language in which s/he knows how to do unit test could be chosen.
 
 * I want to join, but I know nothing about Coding Dojo...
 
@@ -103,9 +79,9 @@ For more information about Hanoi Coding Dojo, please visit our website
 ---
 Fr-FR:
 
-Je suis heureux de vous annoncer que la session #29 du Coding Dojo Ha Noi sera organisé :
+Je suis heureux de vous annoncer que la session #30 du Coding Dojo Ha Noi sera organisé :
 
-* aujourd'hui - Samedi 29 avril,
+* aujourd'hui - Samedi 28 avril,
 * de 2:00 PM à 4:00 PM,
 * à Institut de la Francophonie pour l'Informatique - IFI, 42 Ta Quang Buu, Hanoi.
 
