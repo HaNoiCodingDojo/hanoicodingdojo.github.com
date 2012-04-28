@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, April 28th, 2012 at IFI ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, May 5th, 2012 at IFI ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 28 tháng 04 năm 2012 tại IFI ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 05 tháng 05 năm 2012 tại IFI ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -113,6 +113,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession28)
 * April 14th, 2012 - Session #29 ('Fizzbuzz in CPS' in Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession29)
+* April 28th, 2012 - Session #30 ('Brainfuck interpreter without Ifs' in Python - CPython)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession30)
 
 ## Tiếng Việt
 
@@ -221,3 +223,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession28)
 * 14/04/2012 - Session #29 ('Fizzbuzz in CPS' dùng Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession29)
+* 28/04/2012 - Session #30 ('Brainfuck interpreter without Ifs' dùng Python - CPython)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession30)
