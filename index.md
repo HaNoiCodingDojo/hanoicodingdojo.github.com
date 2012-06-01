@@ -115,7 +115,7 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession29)
 * April 28th, 2012 - Session #30 ('Brainfuck interpreter without Ifs' in Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession30)
-* Mqy 28th, 2012 - Session #31 ('DragonBall style Kata' in Python - CPython)
+* May 28th, 2012 - Session #31 ('DragonBall style Kata' in Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession31)
 
 ## Tiếng Việt
