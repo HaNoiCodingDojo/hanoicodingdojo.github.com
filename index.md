@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, May 26th, 2012 at IFI ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, June 2nd, 2012 at IFI ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 26 tháng 05 năm 2012 tại IFI ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 2 tháng 06 năm 2012 tại IFI ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -115,6 +115,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession29)
 * April 28th, 2012 - Session #30 ('Brainfuck interpreter without Ifs' in Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession30)
+* Mqy 28th, 2012 - Session #31 ('DragonBall style Kata' in Python - CPython)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession31)
 
 ## Tiếng Việt
 
@@ -225,3 +227,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession29)
 * 28/04/2012 - Session #30 ('Brainfuck interpreter without Ifs' dùng Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession30)
+* 26/05/2012 - Session #31 ('DragonBall style Kata' dùng Python - CPython)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession31)
