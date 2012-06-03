@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, June 2nd, 2012 at IFI ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, June 9th, 2012 at IFI ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 2 tháng 06 năm 2012 tại IFI ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 9 tháng 06 năm 2012 tại IFI ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -117,6 +117,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession30)
 * May 28th, 2012 - Session #31 ('DragonBall style Kata' in Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession31)
+* June 2nd, 2012 - Session #32 ('Robozzle' in Python - CPython)
+  Code lost
 
 ## Tiếng Việt
 
@@ -229,3 +231,5 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession30)
 * 26/05/2012 - Session #31 ('DragonBall style Kata' dùng Python - CPython)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession31)
+* 02/06/2012 - Session #32 ('Robozzle' dùng Python - CPython)
+  Code lost
