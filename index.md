@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, August 11th, 2012 at Community Space ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, August 11th, 2012 (next week) at Community Space ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 11 tháng 08 năm 2012 tại Không Gian Cộng Đồng ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 11 tháng 08 năm 2012 (tuần sau) tại Không Gian Cộng Đồng ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
