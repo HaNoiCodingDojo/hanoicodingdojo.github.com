@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, June 9th, 2012 at IFI ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, August 4th, 2012 at Community Space ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 9 tháng 06 năm 2012 tại IFI ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 4 tháng 08 năm 2012 tại Không Gian Cộng Đồng ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -41,10 +41,9 @@ You can join our mailing-list:
    Prof. [Serge Stinckwich](http://www.doesnotunderstand.org/), and
    [Dương “Yang” ヤン Hà Nguyễn](http://cmpitg.wordpress.com).
  * Time: Every Saturday from 2:00 PM to 4:00 PM.
- * Location: AUF/CNF center, Institut de la Francophonie pour
-   l’Informatique or Viện Tin học Pháp ngữ (IFI), ngõ 42 Tạ Quang Bửu,
-   quận Hai Bà Trưng, Hà
-   Nội. [Wikimapia](http://wikimapia.org/131037/vi/Vi%E1%BB%87n-Tin-h%E1%BB%8Dc-Ph%C3%A1p-ng%E1%BB%AF-H%C3%A0-N%E1%BB%99i-IFI).
+ * Location: Community Space or Không Gian Cộng Đồng, 3th Floor, 
+   20A/98 Thái Hà, Dong Da Distr, Hanoi.
+   [Wikimapia](http://wikimapia.org/#lat=21.0114905&lon=105.8217902&z=19&l=38&m=b).
 
 ### Archives
 
@@ -154,10 +153,9 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
    [Serge Stinckwich](http://www.doesnotunderstand.org/), và bạn
    [Nguyễn Hà Dương](http://cmpitg.wordpress.com).
  * Thời gian: từ *2:00 chiều đến 4:00 chiều thứ Bảy hàng tuần*.
- * Địa điểm: *trung tâm AUF/CNF, thuộc Viện Tin học Pháp ngữ IFI* (Institut de
-   la Francophonie pour l’Informatique), *ngõ 42 Tạ Quang Bửu, quận Hai Bà
-   Trưng, Hà
-   Nội*. [Wikimapia](http://wikimapia.org/131037/vi/Vi%E1%BB%87n-Tin-h%E1%BB%8Dc-Ph%C3%A1p-ng%E1%BB%AF-H%C3%A0-N%E1%BB%99i-IFI).
+ * Địa điểm: Community Space or Không Gian Cộng Đồng, tầng 03, 
+   *số 20A, ngõ 98 Thái Hà,quận Đống Đa, Hà
+   Nội*. [Wikimapia](http://wikimapia.org/#lat=21.0114905&lon=105.8217902&z=19&l=38&m=b).
 
 ### Lưu trữ
 

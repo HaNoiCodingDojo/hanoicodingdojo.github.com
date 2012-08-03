@@ -13,7 +13,7 @@ Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 36:
 
 * vào thứ Bảy - 04 tháng 08,
 * từ 8:00 đến 10:00 sáng,
-* tại Không gian Cộng đồng, ..., Hà Nội .
+* tại Không gian Cộng đồng, số 20A, ngõ 98 Thái Hà, quận Đống Đa, Hà Nội.
 
 Các câu hỏi thường gặp:
 
@@ -43,11 +43,11 @@ website của chúng tôi (song ngữ Anh/Việt): http://hanoicodingdojo.github
 ---
 En-US:
 
-I'm glad to announce that Hanoi Coding Dojo session #33 will be organized:
+I'm glad to announce that Hanoi Coding Dojo session #36 will be organized:
 
-* today, Saturday - August 4th,
+* tomorrow, Saturday - August 4th,
 * from 08:00 AM to 10:00 AM,
-* at Community Space, , Hanoi.
+* at Community Space, 3th Floor, 20A/98 Thai Ha, Dong Da Distr., Hanoi.
 
 Frequently asked questions:
 
@@ -79,11 +79,11 @@ For more information about Hanoi Coding Dojo, please visit our website
 ---
 Fr-FR:
 
-Je suis heureux de vous annoncer que la session #33 du Coding Dojo Ha Noi sera organisé :
+Je suis heureux de vous annoncer que la session #36 du Coding Dojo Ha Noi sera organisé :
 
-* aujourd'hui - Samedi 9 juin,
+* aujourd'hui - Samedi 4 août,
 * de 08:00 AM à 10:00 AM,
-* à Institut de la Francophonie pour l'Informatique - IFI, 42 Ta Quang Buu, Hanoi.
+* à Institut de la Francophonie pour l'Informatique - Community Space, 20A/98 Thai Ha, Dong Da, Hanoi.
 
 Foire Au Questions (FAQ):
 
