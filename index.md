@@ -41,8 +41,8 @@ You can join our mailing-list:
    Prof. [Serge Stinckwich](http://www.doesnotunderstand.org/), and
    [Dương “Yang” ヤン Hà Nguyễn](http://cmpitg.wordpress.com).
  * Time: Every Saturday from 2:00 PM to 4:00 PM.
- * Location: Community Space or Không Gian Cộng Đồng, 3th Floor, 
-   20A/98 Thái Hà, Dong Da Distr, Hanoi.
+ * Location: Community Space or Không Gian Cộng Đồng, 3th Floor,
+   20A, alleyway 98 Thai Ha, Dong Da Distr, Hanoi.
    [Wikimapia](http://wikimapia.org/#lat=21.0114905&lon=105.8217902&z=19&l=38&m=b).
 
 ### Archives
@@ -118,6 +118,10 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession31)
 * June 2nd, 2012 - Session #32 ('Robozzle' in Python - CPython)
   Code lost
+* June 6th, 2012 - Session #33 ('BinaryGenerator-2' in Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession33)
+* Aug 18th, 2012 - Session #34 ('Roman Numbers' in Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession34)
 
 ## Tiếng Việt
 
@@ -154,8 +158,8 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
    [Nguyễn Hà Dương](http://cmpitg.wordpress.com).
  * Thời gian: từ *2:00 chiều đến 4:00 chiều thứ Bảy hàng tuần*.
  * Địa điểm: Community Space or Không Gian Cộng Đồng, tầng 03, 
-   *số 20A, ngõ 98 Thái Hà,quận Đống Đa, Hà
-   Nội*. [Wikimapia](http://wikimapia.org/#lat=21.0114905&lon=105.8217902&z=19&l=38&m=b).
+   *số 20A, ngõ 98 Thái Hà,quận Đống Đa, Hà Nội*.
+   [Wikimapia](http://wikimapia.org/#lat=21.0114905&lon=105.8217902&z=19&l=38&m=b).
 
 ### Lưu trữ
 
@@ -231,3 +235,8 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession31)
 * 02/06/2012 - Session #32 ('Robozzle' dùng Python - CPython)
   Code lost
+* 06/06/2012 - Session #33 ('BinaryGenerator-2' dùng Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession33)
+* 18/08/2012 - Session #34 ('Roman Numbers' dùng Clojure - Clojure)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession34)
+
