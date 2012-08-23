@@ -9,9 +9,9 @@ Xin lỗi vì đã cross-posting, xin vui lòng bỏ qua email này nếu như b
 ---
 Vi-VN:
 
-Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 34:
+Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 35:
 
-* vào thứ Bảy - 18 tháng 08  ,
+* vào thứ Bảy - 25 tháng 08  ,
 * từ 2:00 đến 4:00 chiều,
 * tại Không gian Cộng đồng, số 20A, ngõ 98 Thái Hà, quận Đống Đa, Hà Nội.
 
@@ -43,9 +43,9 @@ website của chúng tôi (song ngữ Anh/Việt): http://hanoicodingdojo.github
 ---
 En-US:
 
-I'm glad to announce that Hanoi Coding Dojo session #34 will be organized:
+I'm glad to announce that Hanoi Coding Dojo session #35 will be organized:
 
-* next Saturday - August 18th,
+* next Saturday - August 25th,
 * from 02:00 AM to 04:00 PM,
 * at Community Space, 3th Floor, 20A/98 Thai Ha, Dong Da Distr., Hanoi.
 
@@ -79,9 +79,9 @@ For more information about Hanoi Coding Dojo, please visit our website
 ---
 Fr-FR:
 
-Je suis heureux de vous annoncer que la session #34 du Coding Dojo Ha Noi sera organisé :
+Je suis heureux de vous annoncer que la session #35 du Coding Dojo Ha Noi sera organisé :
 
-* le prochain samedi - Samedi 18 août,
+* le prochain samedi - Samedi 25 août,
 * de 02:00 PM à 04:00 PM,
 * à Community Space, 20A/98 Thai Ha, Dong Da, Hanoi.
 
