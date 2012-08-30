@@ -4,9 +4,9 @@ CSS: style.css
 # Welcome to Hanoi Coding Dojo
 # Chào mừng các bạn đến với Coding Dojo Hà Nội
 
-## Next session of Ha Noi Coding Dojo will be organized on Saturday, August 25th, 2012 at Community Space ##
+## Next session of Ha Noi Coding Dojo will be organized on Saturday, September 1st, 2012 at Community Space ##
 
-## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 25 tháng 08 năm 2012 tại Không Gian Cộng Đồng ##
+## Buổi Coding Dojo tiếp theo sẽ được tổ chức vào thứ Bảy ngày 01 tháng 0 năm 2012 tại Không Gian Cộng Đồng ##
 
 (Vietnamese version is at the end of the page / Phần tiếng Việt nằm phía cuối
 trang)
@@ -122,6 +122,8 @@ You can join our mailing-list:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession33)
 * Aug 18th, 2012 - Session #34 ('Roman Numbers' in Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession34)
+* Aug 25th, 2012 - Session #35 ('FizzBuzz' in Java - Java)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession35)
 
 ## Tiếng Việt
 
@@ -239,4 +241,6 @@ Bạn cũng có thể tham gia mailing-list của chúng tôi:
   [code](https://github.com/HaNoiCodingDojo/HNCDSession33)
 * 18/08/2012 - Session #34 ('Roman Numbers' dùng Clojure - Clojure)
   [code](https://github.com/HaNoiCodingDojo/HNCDSession34)
+* 25/08/2012 - Session #35 ('FizzBuzz' dùng Java - Java)
+  [code](https://github.com/HaNoiCodingDojo/HNCDSession35)
 
