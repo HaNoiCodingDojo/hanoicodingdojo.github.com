@@ -11,7 +11,7 @@ Vi-VN:
 
 Mời các bạn tham dự buổi Hà Nội Coding Dojo thứ 36:
 
-* vào thứ Bảy - 1 tháng 09  ,
+* vào thứ Bảy - 27 tháng 10  ,
 * từ 2:00 đến 4:00 chiều,
 * tại Không gian Cộng đồng, số 20A, ngõ 98 Thái Hà, quận Đống Đa, Hà Nội.
 
@@ -45,7 +45,7 @@ En-US:
 
 I'm glad to announce that Hanoi Coding Dojo session #36 will be organized:
 
-* next Saturday - September 1st,
+* next Saturday - October 27th,
 * from 02:00 AM to 04:00 PM,
 * at Community Space, 3th Floor, 20A/98 Thai Ha, Dong Da Distr., Hanoi.
 
@@ -81,7 +81,7 @@ Fr-FR:
 
 Je suis heureux de vous annoncer que la session #36 du Coding Dojo Ha Noi sera organisé :
 
-* le prochain samedi - Samedi 1 septembre,
+* le prochain samedi - Samedi 27 octobre,
 * de 02:00 PM à 04:00 PM,
 * à Community Space, 20A/98 Thai Ha, Dong Da, Hanoi.
 
